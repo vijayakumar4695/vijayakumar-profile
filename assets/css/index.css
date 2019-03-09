@@ -1,0 +1,14 @@
+.login-page .page-header{
+	min-height: 0;
+    height: 12rem;
+}
+.navbar, .navbar.navbar-default {
+    background-color: #748d9a;
+    }
+body{
+	background-color: #607d8bde;
+}
+.row {
+     margin-right: 0; 
+     margin-left: 0; 
+}
